@@ -23,3 +23,4 @@ Eine Zeile pro Datei: `- [Titel](datei.md) — Kurzbeschreibung`. Keine Inhalte 
 - [Kap. 14 Wirtschaftlichkeit](vl-kap14-wirtschaftlichkeit.md) — CapEx/OpEx/TCO, ROI, Payback, NPV, IRR, Beispiele
 - [Fallstudien](vl-kap-fallstudien.md) — Achsträger-Zelle 60 s, Roboterteam-Fälle
 - [Projektüberblick](projekt-ueberblick.md) — Ziel, Team, Rahmenbedingungen des Planspiels
+- [Einrichtungsstatus](einrichtung-status.md) — Wer das geteilte Claude-Gedächtnis schon eingerichtet hat
