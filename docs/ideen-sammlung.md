@@ -18,9 +18,10 @@ Format: `- Kurztitel: ein Satz, was der Roboter in der Zelle tut.`
 -
 -
 
-### Ratika
--
--
+### Rathika
+- Demontage-Zelle für E-Auto-Akkus [KI]: Ein Industrieroboter mit Werkzeugwechsler und 3D-Kamera zerlegt gebrauchte, vom Menschen spannungsfrei gemachte Batteriepacks bis auf Modulebene, indem er Schrauben und Steckverbinder löst, den Deckel entfernt und die Module sortiert.
+- Döner-Roboter im Imbiss [KI]: Ein Cobot schneidet das Fleisch vom Spieß und passt seine Bahn per Sensor an den schrumpfenden Durchmesser an, während Dosierer die Soße zugeben und der Mensch kassiert, Salat und Extras auflegt.
+- Mobiler Roboter zum Sortieren von Retouren [KI]: Ein mobiler Manipulator mit Hybridgreifer entnimmt Artikel aus automatisch geöffneten Rücksendungen, erkennt sie per Kamera, Barcode/RFID und KI und sortiert sie in „wieder verkaufen“, „Prüfung durch Mensch“ oder „Entsorgung“.
 
 ### Luca
 -
