@@ -24,3 +24,6 @@ Eine Zeile pro Datei: `- [Titel](datei.md) — Kurzbeschreibung`. Keine Inhalte 
 - [Fallstudien](vl-kap-fallstudien.md) — Achsträger-Zelle 60 s, Roboterteam-Fälle
 - [Projektüberblick](projekt-ueberblick.md) — Ziel, Team, Rahmenbedingungen des Planspiels
 - [Einrichtungsstatus](einrichtung-status.md) — Wer das geteilte Claude-Gedächtnis schon eingerichtet hat
+- [Use-Case Retouren](use-case-retouren.md) — Gewählter Use-Case: mobiler Manipulator sortiert Retouren
+- [Rollen](rollen.md) — Aktuelle Rollenverteilung (Sicherheit & SCRAM: Rathika)
+- [Sicherheit & SCRAM-Konzept](sicherheit-scram-konzept.md) — Entwurf: Schutzvariante V4, verworfene Varianten, kritische Szenarien S1–S3

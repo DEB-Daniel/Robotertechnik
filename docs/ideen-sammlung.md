@@ -65,7 +65,7 @@ Das sind **Anregungen**, keine Entscheidung. Nehmt, was euch gefällt, oder lass
 |------|------------------------------|--------------------|------------------|
 |      |                              |                    |                  |
 
-**Ergebnis (2–3 Varianten) und Begründung:** _offen_
+**Ergebnis:** Gewählt wurde „Mobiler Roboter zum Sortieren von Retouren“ (Stand 23.11.2026). Begründung: _offen_. Weiter geht es in `docs/ergebnisse.md`.
 
 **Verworfene Alternative(n) und Grund:** _offen_
 
