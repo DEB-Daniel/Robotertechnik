@@ -11,7 +11,7 @@ Stand der Einrichtung des geteilten Claude-Gedächtnisses laut `docs/CLAUDE-GEDA
 |---|---|---|
 | Ratika | eingerichtet (VS Code + Claude Code, `CLAUDE.md` und Index werden geladen) | 2026-11-18 |
 | Daniel | offen | – |
-| Jan | offen | – |
+| Jan | eingerichtet (VS Code + Claude Code, `CLAUDE.md` und Index werden geladen) | 2026-11-23 |
 | Luca | offen | – |
 
 **Why:** Damit das Team sieht, wer schon auf dem gemeinsamen Wissensstand arbeiten kann (eingetragen am 2026-11-18).
